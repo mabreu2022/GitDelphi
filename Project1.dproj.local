@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/02/16 08:49:09.000.224,=C:\Users\conec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/27 17:28:47.000.614,=C:\Users\conec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/27 19:13:13.000.924,=C:\Users\conec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/28 11:09:28.000.115,=C:\Users\conec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/28 11:51:18.000.792,=C:\Users\conec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/02 12:29:36.000.982,=C:\Users\conec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/23 07:42:40.037,=C:\Users\conec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/23 08:19:25.646,C:\Fontes\GitBashnopanel\Unit1.pas=C:\Users\conec\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/23 08:19:25.646,C:\Fontes\GitBashnopanel\Unit1.dfm=C:\Users\conec\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/03/23 08:19:27.111,C:\Fontes\GitBashnopanel\Project1.dproj=C:\Users\conec\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
